@@ -1,0 +1,500 @@
+1	US-20240174789-A1	   PDF	PROCESS FOR PRODUCING OPEN-CELL RIGID POLYURETHANE FOAMS	Wagner; Hendrik et al.	2024-05-30	13
+2	US-11993759-B2	   PDF	Solid solutions of odoriferous substances and flavoring agents with vinyl lactam polymers	Kolter; Karl et al.	2024-05-28	6
+3	US-11993729-B2	   PDF	Chemical mechanical polishing composition	Daeschlein; Christian et al.	2024-05-28	16
+4	US-11993760-B2	   PDF	2-furyl- and 2-thienyl-substituted di- and tetrahydropyrans for use as aroma chemicals	Bru Roig; Miriam et al.	2024-05-28	28
+5	US-11992012-B2	   PDF	Diaminotriazine compounds	Geerdink; Danny et al.	2024-05-28	70
+6	US-11987738-B2	   PDF	C.SUB.2.-C.SUB.3.-alkenyl-substituted rylene imide dyes and curing product of curable silicon resin composition and C.SUB.2.-C.SUB.3.-alkenyl-substituted rylene imide dyes	Koenemann; Martin et al.	2024-05-21	29
+7	US-11986798-B2	   PDF	Permeable superabsorbent and process for production thereof	Bauduin; Christophe et al.	2024-05-21	19
+8	US-11981619-B2	   PDF	Alkoxylated esteramines and salts thereof	Ludolph; Bjoern et al.	2024-05-14	11
+9	US-11981793-B2	   PDF	Use of an ultraviolet radiation absorbing composition as a light stabilizer for a shaped artificial polymer article	Ehlis; Thomas et al.	2024-05-14	35
+10	US-11980218-B2	   PDF	Dust-free cold-water-dispersible preparations	Meyer-Boehm; Kathrin et al.	2024-05-14	6
+11	US-11982395-B2	   PDF	Insulated pipe containing polyurethane foam which is foamed by an environmentally friendly foaming agent and has a low degree of brittleness	Tomasi; Gianpaolo et al.	2024-05-14	7
+12	US-11984578-B2	   PDF	Process for making an at least partially coated electrode active material	Sommer; Heino et al.	2024-05-14	7
+13	US-11981768-B2	   PDF	Polyol component and use thereof for producing rigid polyurethane foams	Wagner; Hendrik et al.	2024-05-14	12
+14	US-20240148108-A1	   PDF	STROBEL FOR AN ARTICLE OF FOOTWEAR, AN ARTICLE OF FOOTWEAR AND PROCESS FOR MANUFACTURING THE ARTICLE OF FOOTWEAR	LIU; Kai et al.	2024-05-09	11
+15	US-11976089-B2	   PDF	Methods for the purification of L-glufosinate	Fields; Stephen Craig et al.	2024-05-07	30
+16	US-11976030-B2	   PDF	Process to recover high quality 3-methyl-but-3-en-1-ol	Keller; Andreas et al.	2024-05-07	10
+17	US-11976168-B2	   PDF	Binder composition comprising poly(amino acid)s for fiber composite articles	Sommer; Gereon Antonius et al.	2024-05-07	21
+18	US-20240141093-A1	   PDF	Polyol and a Process for the Preparation Thereof	YANG; Yue et al.	2024-05-02	23
+19	US-11969753-B2	   PDF	Process for producing matt coatings on sheetlike substrates	Becker; Axel et al.	2024-04-30	17
+20	US-11970568-B2	   PDF	Ski boots with temperature-independent modulus of elasticity	Henze; Oliver Steffen et al.	2024-04-30	7
+21	US-11970647-B2	   PDF	Composition, its use and a process for selectively etching silicon-germanium material	Lopez Villanueva; Francisco Javier et al.	2024-04-30	10
+22	US-11971706-B2	   PDF	Industrial plant monitoring	Fanidakis; Nikolaos et al.	2024-04-30	26
+23	US-11965171-B2	   PDF	Plants having increased tolerance to herbicides	Tresch; Stefan et al.	2024-04-23	271
+24	US-11964449-B2	   PDF	Laminates containing a metal and a polyamide composition	Desbois; Philippe et al.	2024-04-23	11
+25	US-11965093-B2	   PDF	Polyamide composition	Rangel de Oliveira, Jr.; Adair et al.	2024-04-23	11
+26	US-11958823-B2	   PDF	Process for the manufacturing of a polymer with urethane groups	Rudolf; Peter et al.	2024-04-16	18
+27	US-11958992-B2	   PDF	Plasticizer migration-resistant, UV-curable hotmelt adhesive for graphics films and labels made of plasticized PVC	Wulff; Dirk et al.	2024-04-16	9
+28	US-11958810-B2	   PDF	Preparation of optionally substituted dihydroisoquinolines	Mueller; Bernd et al.	2024-04-16	17
+29	US-11958267-B2	   PDF	Laminate containing a metal layer and a layer of a polyamide and EVA	Desbois; Philippe et al.	2024-04-16	16
+30	US-11958215-B2	   PDF	Pelletization of a phosphite polymer stabilizer	Gfroerer; Thomas Georg et al.	2024-04-16	21
+31	US-20240117233-A1	   PDF	NOVEL COOLANTS WITH IMPROVED STORAGE STABILITY	Dietl; Harald et al.	2024-04-11	8
+32	US-11952456-B2	   PDF	Process for preparing a polyurethane using a polyester polyol comprising polycyclic aromatic moieties	Zarbakhsh; Sirus et al.	2024-04-09	25
+33	US-11952551-B2	   PDF	Gear oil composition	Ma; Qinggao et al.	2024-04-09	12
+34	US-11954153-B2	   PDF	Knowledge insight capturing system	Bienewald; Frank et al.	2024-04-09	20
+35	US-20240110088-A1	   PDF	COOLANTS WITH IMPROVED TEMPERATURE STABILITY	Dietl; Harald et al.	2024-04-04	11
+36	US-11945949-B2	   PDF	Polyamide composition for the production of weldable moulded bodies	Wagner; Sebastian et al.	2024-04-02	13
+37	US-11945904-B2	   PDF	Flexible polyurethane foams	Jaehnigen; Julia et al.	2024-04-02	18
+38	US-11945254-B2	   PDF	Security element	Grigorenko; Nikolay A. et al.	2024-04-02	22
+39	US-11946168-B2	   PDF	Spinnable composition (sC), and polyester fibers (PF) made therefrom	Schilling; Daniel et al.	2024-04-02	11
+40	US-11945767-B2	   PDF	Method for producing metal alcoholates	Weissker; Wolf-Steffen et al.	2024-04-02	11
+41	US-20240101919-A1	   PDF	BRANCHED PRIMARY ALKYL AMINES AS ADDITIVES FOR GASOLINE FUELS	Mezger; Jochen et al.	2024-03-28	18
+42	US-20240101823-A1	   PDF	PROCESS FOR PREPARING A SULFUR COPOLYMER	Geyer; Florian Ludwig et al.	2024-03-28	13
+43	US-20240104620-A1	   PDF	USE OF A DISTRIBUTED LEDGER SYSTEM FOR MONITORING GOODS DELIVERIES	LUX; Heinz Guenter et al.	2024-03-28	51
+44	US-11939587-B2	   PDF	Plants having increased tolerance to herbicides	Schachtschabel; Doreen et al.	2024-03-26	104
+45	US-11942634-B2	   PDF	Process for making a partially coated electrode active material, and electrode active material	Haag; Jacob et al.	2024-03-26	9
+46	US-11939708-B2	   PDF	Weft-knitted spacer fabric and a preparation method thereof, use of the fabric for the preparation of a composite material and a composite material comprising the same	Sun; Xiao Yu et al.	2024-03-26	16
+47	US-11939469-B2	   PDF	Thermoplastic molding material	Spies; Patrick et al.	2024-03-26	14
+48	US-11939470-B2	   PDF	Sinter powder (SP) comprising a first polyamide component (PA1) and a second polyamide component (PA2), where the melting point of the second polyamide component (PA2) is higher than the melting point of the first polyamide component (PA1)	Gabriel; Claus et al.	2024-03-26	13
+49	US-11930813-B2	   PDF	Pesticidal mixtures comprising cyanosulfoximine compounds	Breuninger; Delphine et al.	2024-03-19	22
+50	US-11930814-B2	   PDF	Pesticidal mixtures comprising cyanosulfoximine compounds	Breuninger; Delphine et al.	2024-03-19	22
+51	US-11933552-B2	   PDF	Heat exchanger for heating gas and use of the heat exchanger	Stephan; Oskar et al.	2024-03-19	4
+52	US-11936002-B2	   PDF	Electrolyte composition comprising oligomeric silyl ester phosphonates	Mendez Agudelo; Manuel Alejandro et al.	2024-03-19	18
+53	US-11932819-B2	   PDF	Lubricant comprising a diester of adipic acid with a tridecanol	Scherer; Markus et al.	2024-03-19	12
+54	US-20240084084-A1	   PDF	PROMOTER FOR YEAST	Tan; Xuqiu et al.	2024-03-14	21
+55	US-20240084208-A1	   PDF	NEW MIXTURES FOR IMPROVING THE STABILITY OF ADDITIVE PACKAGES	Mezger; Jochen et al.	2024-03-14	17
+56	US-20240084085-A1	   PDF	PREPARATION FOR A MOLDED BODY	Schmidt; Lisa Marie et al.	2024-03-14	18
+57	US-20240085885-A1	   PDF	MIXED REALITY AND VIRTUAL REALITY FOR PROCESSING ENVIRONMENTS	Winkler; Christian-Andreas et al.	2024-03-14	18
+58	US-11926918-B2	   PDF	Composition for metal plating comprising suppressing agent for void free filing	Kienle; Marcel Patrik et al.	2024-03-12	33
+59	US-11926715-B2	   PDF	Spray drying method	Gaedt; Torben et al.	2024-03-12	11
+60	US-11926639-B2	   PDF	Process for preparing oligo ethylene glycol methyl ether borate	Werth; Kathrin Luise Mariethres et al.	2024-03-12	8
+61	US-20240075771-A1	   PDF	CONSTRUCTION OF A MOLDED BODY FOR NON-PNEUMATIC TIRES	Schmidt; Lisa Marie et al.	2024-03-07	16
+62	US-11920013-B2	   PDF	Polyurethane particle foam with polyurethane coating	Prissok; Frank et al.	2024-03-05	9
+63	US-11918672-B2	   PDF	Water based concentrated product forms of oil-soluble organic UV absorbers	Lindemann; Brigitte et al.	2024-03-05	30
+64	US-11920000-B2	   PDF	Alkoxylated polyamidoamines as dispersant agents	Mueller-Cristadoro; Anna et al.	2024-03-05	12
+65	US-11920104-B2	   PDF	Ethers and esters of 1-substituted cycloalkanols for use as aroma chemicals	Stock; Christoph et al.	2024-03-05	28
+66	US-11920034-B2	   PDF	Polyamide composition containing flat glass fibres (B) with improved fatigue resistance	Robert; Gilles et al.	2024-03-05	17
+67	US-11912950-B2	   PDF	Use of nitrogen compounds quaternised with alkylene oxide and hydrocarbyl-substituted polycarboxylic acid as additives in fuels and lubricants	Hansch; Markus et al.	2024-02-27	37
+68	US-11913054-B2	   PDF	Fermentative production of n-butylacrylate using alcohol acyl transferase enzymes	Saum; Stephan et al.	2024-02-27	112
+69	US-11911249-B2	   PDF	Fluid-absorbent article	Daniel; Thomas et al.	2024-02-27	51
+70	US-11913048-B2	   PDF	Methods for making L-glufosinate	Green; Brian Michael et al.	2024-02-27	22
+71	US-11913011-B2	   PDF	Plants comprising wheat g-type cytoplasmic male sterility restorer genes and uses thereof	Davey; Mark et al.	2024-02-27	33
+72	US-11913168-B2	   PDF	Process for producing dyed mixed fibres, dyed mixed fibre yarns and/or dyed mixed fibre textile fabrics	Habraken; Gijsbrecht Jacobus Maria et al.	2024-02-27	14
+73	US-11912867-B2	   PDF	Polyurethane and UV-moisture dual cure PU reactive hotmelt comprising the same	Peng-Poehler; Xuyuan et al.	2024-02-27	10
+74	US-11914629-B2	   PDF	Practical supervised classification of data sets	Mishra; Arunav et al.	2024-02-27	16
+75	US-11905538-B2	   PDF	Methods for making L-glufosinate	Green; Brian Michael et al.	2024-02-20	25
+76	US-11904290-B2	   PDF	Device comprising a pressure-bearing device shell and an interior scaffolding system	Kolios; Grigorios et al.	2024-02-20	31
+77	US-11904279-B2	   PDF	Removal of Al-salts, HCl, NaCl and organic by-product from strong alkaline DIOPAT suspension by means of alkaline stable nanofiltration followed by separation of salts and byproducts after neutralization of DIOPAT solution by means of ultrafiltration	Malisz; Jacek et al.	2024-02-20	11
+78	US-11897778-B2	   PDF	Zeolite synthesis in a reactor with controlled velocity profile	Riemann; Christian et al.	2024-02-13	24
+79	US-11898075-B2	   PDF	Yellow light emitting device	Mangold; Hannah Stephanie et al.	2024-02-13	40
+80	US-11897847-B2	   PDF	Crystalline form of ethyl 2-[2-[2-chloro-4-fluoro-5-[3-methyl-2,6-dioxo-4-(trifluoromethyl)pyrimidin-1-yl]phenoxy]phenoxy]acetate	Viertelhaus; Martin et al.	2024-02-13	49
+81	US-11897908-B2	   PDF	Methods for the purification of L-glufosinate	Fields; Stephen Craig et al.	2024-02-13	30
+82	US-11897909-B2	   PDF	Methods for the purification of L-glufosinate	Fields; Stephen Craig et al.	2024-02-13	30
+83	US-11897861-B2	   PDF	Method for the preparation of compounds with cyclic monothiocarbonate groups	Rudolf; Peter et al.	2024-02-13	9
+84	US-11897169-B2	   PDF	Method for producing spherical thermoplastic polymer particles	Bauder; Andreas et al.	2024-02-13	12
+85	US-11897995-B2	   PDF	Allophanate based dispersing agent	Gernandt; Andreas et al.	2024-02-13	20
+86	US-20240047803-A1	   PDF	COVERING ARTICLE, BATTERY PACK CONTAINING THE SAME AND THE PROCESS FOR PREPARING THE BATTERY PACK	MA; Yan Gang et al.	2024-02-08	16
+87	US-11890793-B2	   PDF	Assembling fiber-reinforced foams	Stein; Robert et al.	2024-02-06	19
+88	US-11891471-B2	   PDF	Flexible polyurethane foams with high water absorption capacity	Schuette; Markus et al.	2024-02-06	7
+89	US-11891519-B2	   PDF	Asphalt composition and method of using same in tack coats	Avramidis; Kostas S. et al.	2024-02-06	16
+90	US-20240034941-A1	   PDF	NEW MIXTURES FOR IMPROVING OR BOOSTING THE SEPARATION OF WATER FROM FUELS	ZORN; Matthias et al.	2024-02-01	17
+91	US-20240034857-A1	   PDF	FLAME-RETARDED THERMOPLASTIC POLYURETHANE	Henze; Oliver Steffen et al.	2024-02-01	14
+92	US-11883848-B2	   PDF	Classification process for superabsorbent polymer particles	Funk; Rüdiger et al.	2024-01-30	9
+93	US-11884554-B2	   PDF	Process for precipitating a carbonate or (oxy)hydroxide	Riemann; Christian et al.	2024-01-30	8
+94	US-11884846-B2	   PDF	Adhesive composition having a gel content based on cross-linking via keto groups or aldehyde groups	Gerst; Matthias et al.	2024-01-30	13
+95	US-11884611-B2	   PDF	Reactor for carrying out a gas-liquid two-phase high-pressure reaction with a foaming medium	Bey; Oliver et al.	2024-01-30	11
+96	US-11884768-B2	   PDF	Methods and compositions for forming elastomeric polyurethane articles and associated elastomeric polyurethane articles formed therefrom	Wang; Liying et al.	2024-01-30	15
+97	US-20240026061-A1	   PDF	POLYETHERESTER POLYOL AND USE THEREOF FOR PRODUCING POLYURETHANE RIGID FOAM MATERIALS	XU; Jian Feng et al.	2024-01-25	8
+98	US-11882629-B2	   PDF	Solids-packed apparatus for performance of endothermic reactions with direct electrical heating	Appel; Hagen et al.	2024-01-23	41
+99	US-11878392-B2	   PDF	Method for the hydro-erosive grinding of components	Weickert; Mathias	2024-01-23	11
+100	US-11879108-B2	   PDF	Middle-pressure polymerization process for liquid ethylene copolymers	Garcia Castro; Ivette et al.	2024-01-23	12
+101	US-11872728-B2	   PDF	Vegetable oil as foam stabilizer in PU boots manufacturing	Bocquet; David et al.	2024-01-16	12
+102	US-11873638-B2	   PDF	Wall assembly	Espada; Luis A. et al.	2024-01-16	16
+103	US-20240013128-A1	   PDF	COMPUTER-IMPLEMENTED METHOD FOR DETERMINING A SUSTAINABILITY SCORE	Leed; Marina Grace Dickens et al.	2024-01-11	12
+104	US-20240009710-A1	   PDF	COMPUTER-IMPLEMENTED METHOD FOR SORTING OF PLASTIC COMPOUNDS	TUERKOGLU; Gazi et al.	2024-01-11	10
+105	US-11866714-B2	   PDF	Promoter for yeast	Tan; Xuqiu et al.	2024-01-09	23
+106	US-20240002621-A1	   PDF	eTPE Laser Marking	THIELBEER; Frank et al.	2024-01-04	14
+107	US-20240002740-A1	   PDF	EMULSIFIER PACKAGE WITH A SHORT-CHAINED AND OPTIONALLY WITH A LONG-CHAINED SURFACTANT FOR FUEL EMULSION	WAGNER; Jochen et al.	2024-01-04	7
+108	US-20240002739-A1	   PDF	EMULSIFIER PACKAGE WITH A BRANCHED AND OPTIONALLY WITH A PROPOXYLATED SURFACTANT FOR FUEL EMULSION	Wagner; Jochen et al.	2024-01-04	8
+109	US-20240002609-A1	   PDF	SOLUTION OF SULFONE POLYMERS IN N-TERT.-BUTYL-2-PYRROLIDONE FOR THE USE OF MEMBRANES	GRONWALD; Oliver et al.	2024-01-04	11
+110	US-11856949-B2	   PDF	Stable, concentrated herbicidal compositions	Long; David A.	2024-01-02	7
+111	US-11859068-B2	   PDF	Polyamides with phosphorous and al-phosphonates	Roth; Michael et al.	2024-01-02	10
+112	US-11859042-B2	   PDF	Method for preparing a thermoplastic polyurethane having a low glass transition temperature	Poppenberg; Johannes et al.	2024-01-02	22
+113	US-11859059-B2	   PDF	Method for the pneumatic delivery of superabsorbent particles	Bauer; Stephan et al.	2024-01-02	14
+114	US-11862795-B2	   PDF	Method for processing Ni-rich electrode active materials	Erk; Christoph et al.	2024-01-02	8
+115	US-11859062-B2	   PDF	Method for producing a thermodeformable polymer/fiber composite	Kalbe; Michael et al.	2024-01-02	16
+116	US-20230416628-A1	   PDF	Emulsifier package with quaternary ammonium surfactant for fuel emulsion	Harhausen; Marcel et al.	2023-12-28	11
+117	US-20230416627-A1	   PDF	AQUEOUS EMULSIFIER PACKAGE WITH ANIONIC SURFACTANT FOR FUEL EMULSION	Wagner; Jochen et al.	2023-12-28	12
+118	US-11850579-B2	   PDF	Catalysts for polyesterol synthesis	Ruebenacker; Martin et al.	2023-12-26	5
+119	US-11851523-B2	   PDF	Aging-resistant TPU	Henze; Oliver Steffen et al.	2023-12-26	13
+120	US-11850578-B2	   PDF	Method and apparatus for performing a chemical reaction under elevated pressure	Kokolakis; Simon et al.	2023-12-26	14
+121	US-20230407050-A1	   PDF	METHOD FOR STABILIZING AN ORGANIC MATERIAL USING A STABILIZER MIXTURE	WEYLAND; Tania et al.	2023-12-21	41
+122	US-20230406968-A1	   PDF	PROCESS FOR PREPARATION OF POLYISOBUTENE DERIVATIVES	Schaefer; Bernd et al.	2023-12-21	9
+123	US-11847997-B2	   PDF	Aqueous polymer emulsions for sound damping applications	Speros; Joshua et al.	2023-12-19	17
+124	US-11845845-B2	   PDF	Foam material particles based on long-chain polyamides	Ahlers; Juergen et al.	2023-12-19	7
+125	US-11846645-B2	   PDF	Method for determining characteristics of super-absorbents	Daniel; Thomas et al.	2023-12-19	17
+126	US-11840771-B2	   PDF	Composition for tin or tin alloy electroplating comprising suppressing agent	Fluegel; Alexander et al.	2023-12-12	17
+127	US-11839214-B2	   PDF	Fungicidal mixture comprising substituted pyridines	Riediger; Nadine et al.	2023-12-12	136
+128	US-11840680-B2	   PDF	Dishwashing detergent formulations comprising polyaspartic acid and graft polymers based on oligo- and polysaccharides as film inhibiting additives	Detering; Juergen et al.	2023-12-12	15
+129	US-20230383084-A1	   PDF	OPTIMUM COMPOSITION OF TPU PRODUCT FOR TIRES	POESELT; Elmar et al.	2023-11-30	17
+130	US-11826723-B2	   PDF	Belt drier arrangement for drying an aqueous polymer gel and for comminuting the dried polymer gel to give dried polymer particles and process for drying an aqueous polymer gel and for comminuting the dried polymer gel to give dried polymer particles	Grünewald; Gerald et al.	2023-11-28	27
+131	US-11821143-B2	   PDF	Aqueous water barrier coatings	Deeter; Gary A et al.	2023-11-21	22
+132	US-20230365783-A1	   PDF	FLAME-RETARDED THERMOPLASTIC POLYURETHANE	HENZE; Oliver Steffen et al.	2023-11-16	14
+133	US-20230365726-A1	   PDF	PROCESS FOR PREPARING HIGH-REACTIVITY ISOBUTENE HOMO- OR COPOLYMERS	Lederhose; Paul et al.	2023-11-16	23
+134	US-11813589-B2	   PDF	Superabsorbent complexed with aluminum ions	Hartnagel; Kristine et al.	2023-11-14	19
+135	US-11814469-B2	   PDF	Polyurethanes having low emissions of organic compounds	Tomovic; Zeljko et al.	2023-11-14	10
+136	US-11814558-B2	   PDF	Method for producing articles coated with adhesive	Kiener; Christoph et al.	2023-11-14	17
+137	US-11814344-B2	   PDF	Process for the preparation of compounds with at least one alkylene group and at least one thiol or thiolate group	Rudolf; Peter et al.	2023-11-14	10
+138	US-11813826-B2	   PDF	Antistatic stretch film	Bluemel; Marcus Harald et al.	2023-11-14	9
+139	US-11807709-B2	   PDF	Method for producing polyisocyanates of (cyclo)aliphatic diisocyanates which are flocculation-stable in solvents	Schaefer; Harald et al.	2023-11-07	17
+140	US-11806965-B2	   PDF	Composite element having improved properties	Grieser-Schmitz; Christof et al.	2023-11-07	7
+141	US-20230348657-A1	   PDF	SYNTHESIS OF LINEAR POLYOXAZOLIDINONES USING URETDIONES AS DIISOCYANATE COMPONENT	Quell; Aggeliki et al.	2023-11-02	14
+142	US-11802191-B2	   PDF	Processes, powders, and shaped bodies of polyamides and calcined kaolin with particular size distribution	Gabriel; Claus et al.	2023-10-31	14
+143	US-20230340205-A1	   PDF	PROCESS FOR PREPARING A HYDROXY GROUP FUNCTIONALIZED THIOETHER	BRUCHMANN; Bernd et al.	2023-10-26	21
+144	US-11793742-B2	   PDF	Mixtures of cosmetic UV absorbers	Ehlis; Thomas et al.	2023-10-24	37
+145	US-11793175-B2	   PDF	Method for monitoring at least one aquaculture pond and aquaculture pond monitoring system	Staehler; Peer et al.	2023-10-24	24
+146	US-11795343-B2	   PDF	Process for preparing urea urethane polymer	Kou; Huiguang et al.	2023-10-24	14
+147	US-11795414-B2	   PDF	Metalworking fluid containing a branched alcohol propoxylate	Rittig; Frank et al.	2023-10-24	9
+148	US-11788094-B2	   PDF	Method of increasing catalase expression or activity	Felle; Max Fabian et al.	2023-10-17	45
+149	US-11787093-B2	   PDF	Process and tool for continuous production of fiber-reinforced foams	Ruckdaeschel; Holger et al.	2023-10-17	16
+150	US-11787920-B2	   PDF	Flame-retardant polyamides	Roth; Michael et al.	2023-10-17	10
+151	US-11787892-B2	   PDF	Process for making an oxymethylene polymer	Heitz; Thomas et al.	2023-10-17	9
+152	US-11787984-B2	   PDF	One-component pressure-sensitive adhesive composition having gel content based on reversible crosslinking via metal salts	Gerst; Matthias et al.	2023-10-17	15
+153	US-11787897-B2	   PDF	Process for producing a polyurethane foam insole	Liang; Zhen Peng et al.	2023-10-17	8
+154	US-11786887-B2	   PDF	Aqueous suspension comprising a zeolitic material and a zirconium chelate complex	Hemgesberg; Maximilian et al.	2023-10-17	26
+155	US-11788024-B2	   PDF	Emulsifier package with quaternary ammonium surfactant for fuel emulsion	Harhausen; Marcel et al.	2023-10-17	10
+156	US-11787983-B2	   PDF	Method of making film laminates using amine-reactive acrylic lamination adhesives	Schumacher; Karl-Heinz et al.	2023-10-17	9
+157	US-20230323013-A1	   PDF	APPLICATION OF THE RING-OPENING OF URETDIONES AT LOW TEMPERATURE AND AMBIENT ATMOSPHERE	QUELL; Aggeliki et al.	2023-10-12	21
+158	US-11780964-B2	   PDF	Process for the manufacturing of a polymer with urethane groups	Rudolf; Peter et al.	2023-10-10	20
+159	US-11780802-B2	   PDF	Organic sulfonic acid salts of amino acid esters and process for their preparation	Ebert; Sophia et al.	2023-10-10	10
+160	US-11781015-B2	   PDF	Heat resistant polyamide composition	Habraken; Gijsbrecht Jacobus Maria et al.	2023-10-10	12
+161	US-11781088-B2	   PDF	Process for the production and purification of sterols	Eychenne; Valerie et al.	2023-10-10	13
+162	US-11773277-B2	   PDF	Use of an ultraviolet radiation absorbing polymer composition (UVRAP) as an UV absorbing agent in a coating for non-living and non-keratinous materials	Ehlis; Thomas et al.	2023-10-03	26
+163	US-11773231-B2	   PDF	Foams based on thermoplastic elastomers	Poeselt; Elmar et al.	2023-10-03	11
+164	US-11772309-B2	   PDF	Flexible foaming process for producing thermally insulated articles	Wagner; Hendrik et al.	2023-10-03	14
+165	US-20230305519-A1	   PDF	CONTROLLING A SYNTHESIS PROCESS	ARNDT; Matthias et al.	2023-09-28	21
+166	US-11766044-B2	   PDF	Method for controlling PPO resistant weeds	Armel; Gregory et al.	2023-09-26	36
+167	US-11767338-B2	   PDF	3-phenyl-benzofuran-2-one diphosphate derivatives as stabilizers	Hoelzl; Werner et al.	2023-09-26	38
+168	US-11766653-B2	   PDF	Method for carrying out a gas/fluid two-phase high-pressure reaction	Bey; Oliver et al.	2023-09-26	12
+169	US-11766089-B2	   PDF	Ultra-light skiing boots	Henze; Oliver Steffen et al.	2023-09-26	8
+170	US-11759983-B2	   PDF	Auxetic polyurethane and melamine foams by triaxial compression	Richter; Sebastian et al.	2023-09-19	11
+171	US-11752702-B2	   PDF	Method for welding membranes	Weber; Martin et al.	2023-09-12	13
+172	US-11753364-B2	   PDF	Method for producing C.SUB.2.-C.SUB.4 .mono alkanol amines using an acid cation exchanger as a catalyst	Gruenanger; Christian et al.	2023-09-12	6
+173	US-11752700-B2	   PDF	Systems and methods for formulating material in a data-driven manner	Foshey; Michael J. et al.	2023-09-12	24
+174	US-11745444-B2	   PDF	Simultaneous optimization of fiber sizing in-line with the pultrusion process	Shakour; Elias Ruda et al.	2023-09-05	10
+175	US-20230272171-A1	   PDF	ADDITIVE MIXTURES FOR RHEOLOGY MODIFICATION OF POLYMERS	VILLENEUVE; Sebastien et al.	2023-08-31	26
+176	US-11737961-B2	   PDF	Preservation mixtures, and polymer solutions stabilized therewith	de Potzolli; Bernd et al.	2023-08-29	8
+177	US-11739235-B2	   PDF	Process for preparing liquid compositions of etherified melamine formaldehyde resins	Weinkoetz; Stephan et al.	2023-08-29	13
+178	US-11737463-B2	   PDF	Pyridine and pyrazine compounds	Mueller; Bernd et al.	2023-08-29	93
+179	US-11739167-B2	   PDF	Process for producing aqueous polyacrylamide solutions	El-Toufaili; Faissal-Ali et al.	2023-08-29	47
+180	US-11742197-B2	   PDF	Cleavable additives for use in a method of making a semiconductor substrate	Klipp; Andreas et al.	2023-08-29	23
+181	US-11739052-B2	   PDF	Process for the preparation of organosulfate salts of amino acids esters	Ebert; Sophia et al.	2023-08-29	6
+182	US-11739475-B2	   PDF	Water vapor-permeable composite material	Prissok; Frank et al.	2023-08-29	13
+183	US-11739282-B2	   PDF	Lubricant composition	Hoey; Michael et al.	2023-08-29	15
+184	US-20230264212-A1	   PDF	SPRAY GUN DEVICE AND SYSTEM FOR DISPENSING POLYURETHANE	Swab; John H. et al.	2023-08-24	26
+185	US-11732281-B2	   PDF	Methods for making L-glufosinate	Green; Brian Michael et al.	2023-08-22	24
+186	US-11732250-B2	   PDF	Lipase enzymes	Kline; Katie et al.	2023-08-22	31
+187	US-11725338-B2	   PDF	Method for producing bleached wood fibre material	Erren; Stefan et al.	2023-08-15	6
+188	US-11723365-B2	   PDF	Method for controlling PPO resistant weeds	Armel; Gregory et al.	2023-08-15	31
+189	US-11725075-B2	   PDF	Thermoplastic polyurethane	Jaehnigen; Julia Christa et al.	2023-08-15	26
+190	US-11723871-B2	   PDF	Poly(meth)acrylic acid popcorn polymerizates as disintegrants for tablets	Smit; Theo et al.	2023-08-15	8
+191	US-11725117-B2	   PDF	Chemical mechanical polishing of substrates containing copper and ruthenium	Guevenc; Haci Osman et al.	2023-08-15	21
+192	US-11725102-B2	   PDF	Method of providing homogeneous aqueous polyacrylamide concentrates and use thereof	El-Toufaili; Faissal-Ali et al.	2023-08-15	15
+193	US-20230250219-A1	   PDF	Thermoplastic polyurethane composition with high mechanical properties, good resistance against UV radiation and low blooming and fogging	HENZE; Oliver Steffen et al.	2023-08-10	8
+194	US-20230250220-A1	   PDF	PROCESS FOR PREPARING A CROSSLINKED THERMOPLASTIC POLYURETHANE AND ARTICLES THEREOF	KHARCHENKO; Sam et al.	2023-08-10	9
+195	US-11713369-B2	   PDF	Polymeric additives for reducing the viscosity loss on tinting	Reichardt; Robert et al.	2023-08-01	20
+196	US-11712679-B2	   PDF	Method for producing catalyst monoliths for the reforming of hydrocarbons	Lanver; Virginie et al.	2023-08-01	16
+197	US-11713393-B2	   PDF	Sintered powder (SP) containing a partially crystalline terephthalate polyester, an amorphous terephthalate polyester and a phosphinic acid salt	Gabriel; Claus et al.	2023-08-01	14
+198	US-11708316-B2	   PDF	Hydrogenation of esters to alcohols in the presence of a Ru-PNN complex	Schelwies; Mathias et al.	2023-07-25	25
+199	US-20230227316-A1	   PDF	CIRCULAR CARBON PROCESS	Bode; Andreas et al.	2023-07-20	8
+200	US-20230227706-A1	   PDF	NOVEL COOLANTS WITH IMPROVED STORAGE STABILITY	Dietl; Harald et al.	2023-07-20	8
+201	US-11702580-B2	   PDF	Coolant for cooling systems in electric vehicles having fuel cells and/or batteries containing azole derivatives and additional corrosion protectants	Dietl; Harald et al.	2023-07-18	17
+202	US-20230219473-A1	   PDF	SEAT BACK FRAME ASSEMBLIES AND SEAT ASSEMBLIES INCLUDING PULTRUSION REINFORCEMENTS	HERGET; Jacob A. et al.	2023-07-13	27
+203	US-11699117-B2	   PDF	System and method for risk based control of a process performed by production equipment	Zhu; Sascha Shuxia	2023-07-11	32
+204	US-11696533-B2	   PDF	Agricultural film comprising a copolyamide of a diamine, a dimer acid and a lactam	Minkwitz; Rolf et al.	2023-07-11	18
+205	US-11697716-B2	   PDF	Process for producing a polyamide powder by precipitation	Gramlich; Simon et al.	2023-07-11	15
+206	US-11697738-B2	   PDF	Composition, its preparation method, and the use of the composition in construction application	Meng; Lei et al.	2023-07-11	17
+207	US-11697641-B2	   PDF	Impact of trace elements in the Grignard reaction	Baeuchle; Joerg et al.	2023-07-11	8
+208	US-11697102-B2	   PDF	Method and apparatus for assistance of the production of a functional material	Lejkowski; Michael Ludwig et al.	2023-07-11	16
+209	US-11691115-B2	   PDF	Method and device for carrying out endothermic gas phase-solid or gas-solid reactions	Kolios; Grigorios et al.	2023-07-04	36
+210	US-11691355-B2	   PDF	3D spacer fabric reinforced PU composite and its use	Liu; YingHao et al.	2023-07-04	9
+211	US-11692078-B2	   PDF	Coated fiber and method	Kerobo; Charles O. et al.	2023-07-04	26
+212	US-11691932-B2	   PDF	Process for the preparation of an aromatic compound from biomass	Parvulescu; Andrei-Nicolae et al.	2023-07-04	22
+213	US-11685832-B2	   PDF	Fire-retardant polyamides comprising PVP	Roth; Michael et al.	2023-06-27	10
+214	US-11685696-B2	   PDF	Process for producing an aqueous dispersion and redispersible dispersion powder produced therefrom	Schmidtke; Christian et al.	2023-06-27	13
+215	US-11685759-B2	   PDF	Method for obtaining crystalline 2′-fucosyllactose	Puhl; Michael et al.	2023-06-27	23
+216	US-11680142-B2	   PDF	Process for producing superabsorbent polymer particles	Funk; Ruediger et al.	2023-06-20	10
+217	US-11674015-B2	   PDF	Polyamides with improved optical properties	Richter; Florian et al.	2023-06-13	12
+218	US-11673854-B2	   PDF	Alkoxylated esteramines and salts thereof	Ludolph; Bjoern et al.	2023-06-13	18
+219	US-11674048-B2	   PDF	Aqueous polymer compositions for flexible roof coatings	Jahns; Ekkehard et al.	2023-06-13	16
+220	US-11673874-B2	   PDF	Synthesis of chromanol derivatives	Weingarten; Melanie et al.	2023-06-13	26
+221	US-11672267-B2	   PDF	Additives and use thereof in corn fermentation process streams and other bioprocesses	Zack; Kenneth L. et al.	2023-06-13	19
+222	US-11666050-B2	   PDF	Enhancing the antimicrobial activity of biocides with polymers	Purschwitz; Janina et al.	2023-06-06	40
+223	US-11667569-B2	   PDF	Composition containing a semi-ordered calcium silicate hydrate	Hesse; Christoph et al.	2023-06-06	18
+224	US-11666012-B2	   PDF	Plants comprising wheat G-type cytoplasmic male sterility restorer genes, molecular markers and uses thereof	Rohde; Antje et al.	2023-06-06	23
+225	US-11666052-B2	   PDF	Herbicidal mixtures comprising L-glufosinate or its salt and at least one bleacher herbicide	Winter; Christian Harald et al.	2023-06-06	16
+226	US-11666053-B2	   PDF	Herbicidal mixtures comprising L-glufosinate and their use in cotton cultures	Winter; Christian Harald et al.	2023-06-06	37
+227	US-11667864-B2	   PDF	Lubricants with a terpolymer made of diester, olefin and acrylate	Garcia Castro; Ivette et al.	2023-06-06	11
+228	US-20230167381-A1	   PDF	COMPOSITION COMPRISING A PRIMARY AND A SECONDARY SURFACTANT, FOR CLEANING OR RINSING A PRODUCT	CHOU; I Chen et al.	2023-06-01	20
+229	US-11659837-B2	   PDF	Mixtures comprising an urease inhibitor (UI) and a nitrification inhibitor such as 2-(3,4-dimethyl-1H-pyrazol-1-yl)succinic acid (DMPSA) or 3,4-dimethyl pyrazolium glycolate (DMPG)	Nave; Barbara et al.	2023-05-30	67
+230	US-11655228-B2	   PDF	Process for preparing dioxolane	Heitz; Thomas et al.	2023-05-23	10
+231	US-11655229-B2	   PDF	Process for preparing dioxolane	Heitz; Thomas et al.	2023-05-23	10
+232	US-11655667-B2	   PDF	Adhesive joining and reinforcement of glass packets in sash profiles	Brockmüller; Kay et al.	2023-05-23	7
+233	US-11657894-B2	   PDF	Media, methods, and systems for protein design and optimization	Li; Tong et al.	2023-05-23	20
+234	US-11647746-B2	   PDF	Enhancing the antimicrobial activity of biocides with polymers	Purschwitz; Janina et al.	2023-05-16	40
+235	US-11649346-B2	   PDF	Compositions containing derivatized polyamines	Petrie; Randall et al.	2023-05-16	13
+236	US-11647751-B2	   PDF	Use of phosphorus containing herbicides as desiccant for plants of the genus Saccharum	Alves Corrêa; Luis Eduardo et al.	2023-05-16	10
+237	US-11649396-B2	   PDF	Associative copolymers with hydrophobic quaternized (meth)acrylamide and (meth)acrylic acid derivatives	Langlotz; Bjoern et al.	2023-05-16	15
+238	US-11649197-B2	   PDF	Method for purifying isobutene from a C4 stream and process system therefor	Thotla; Suman et al.	2023-05-16	13
+239	US-11649411-B2	   PDF	Apparatus and process for producing a deacidified fluid stream	Sieder; Georg et al.	2023-05-16	17
+240	US-20230145157-A1	   PDF	ARTIFICIAL TURF	SCHOLZ; Guenter et al.	2023-05-11	10
+241	US-11643561-B2	   PDF	Process for the preparation of metallic nano-particle layers and their use for decorative or security elements	Grigorenko; Nikolay A. et al.	2023-05-09	20
+242	US-11643557-B2	   PDF	Coating composition for sealing surfaces	Stanjek; Volker et al.	2023-05-09	15
+243	US-11642666-B2	   PDF	Shaped catalyst body in the form of tetralobes of uniform wall thickness	Walsdorff; Christian et al.	2023-05-09	11
+244	US-11643491-B2	   PDF	Process for producing an aqueous polyacrylamide concentrate	El-Toufaili; Faissal-Ali et al.	2023-05-09	47
+245	US-11643523-B2	   PDF	Stabilizer composition, its use and a plastic composition comprising the same	Chen; Lin et al.	2023-05-09	7
+246	US-20230131631-A1	   PDF	ANTISTATIC STRETCH FILM	Bluemel; Marcus Harald et al.	2023-04-27	10
+247	US-11634654-B2	   PDF	Polycarboxylic acid-based additives for fuels and lubricants	Peretolchin; Maxim et al.	2023-04-25	33
+248	US-11634642-B2	   PDF	Biodegradable surfactant	Raether; Roman Benedikt et al.	2023-04-25	9
+249	US-11634515-B2	   PDF	Process for producing aqueous polyacrylamide solutions	Sprafke; Hazel et al.	2023-04-25	51
+250	US-11634516-B2	   PDF	Process for producing aqueous polyacrylamide solutions	Loesch; Dennis et al.	2023-04-25	53
+251	US-11634442-B2	   PDF	Methods for the purification of L-glufosinate	Fields; Stephen Craig et al.	2023-04-25	30
+252	US-11634698-B2	   PDF	Nucleases and methods for making and using them	Tan; Xuqiu et al.	2023-04-25	29
+253	US-11629206-B2	   PDF	Process for preparing high-reactivity isobutene homo- or copolymers	Corberan Roc; Rosa et al.	2023-04-18	12
+254	US-11629205-B2	   PDF	Process for producing aqueous polyacrylamide solutions	Sprafke; Hazel et al.	2023-04-18	43
+255	US-11629226-B2	   PDF	Laminated multilayer polymer containing film comprising a copolyamide of a diamine, a dimer acid and a lactam	Noon; Eric S et al.	2023-04-18	11
+256	US-11623781-B2	   PDF	Container with corrugations	Lischetzki; Peter et al.	2023-04-11	10
+257	US-11624003-B2	   PDF	Colour-stable curing compositions containing polyisocyanates of (cyclo)aliphatic diisocyanates	Schaefer; Harald et al.	2023-04-11	14
+258	US-11624153-B2	   PDF	Method of increasing the throughput and/or decreasing energy usage of a pulping process	Randolph; John Andrew et al.	2023-04-11	12
+259	US-11623868-B2	   PDF	Process for a continuous synthesis of zeolitic materials using seed crystals loaded with organotemplate	Schreyer; Hannah et al.	2023-04-11	31
+260	US-11623979-B2	   PDF	Stabilized polyolefin compositions comprising benzofuranones and hindered amine light stabilizers	King, III; Roswell E. et al.	2023-04-11	35
+261	US-20230108069-A1	   PDF	Non-primary hydroxyl group based foams	Thielbeer; Frank et al.	2023-04-06	15
+262	US-11617709-B2	   PDF	Methylene bis-benzotriazolyl tetramethylbutylphenol for fabric staining reduction	Krus; Stanislaw et al.	2023-04-04	18
+263	US-11618725-B2	   PDF	Process to recover 3-methyl-but-3-en-1-ol	Keller; Andreas et al.	2023-04-04	8
+264	US-20230094796-A1	   PDF	PROCESS FOR PREPARING CYCLIC CARBONATES WITH AN EXOCYCLIC VINYLIDENE GROUP	SCHAUB; Thomas et al.	2023-03-30	41
+265	US-11613620-B2	   PDF	Fibre reinforcement of reactive foams obtained by a moulding foam method	Ruckdaeschel; Holger et al.	2023-03-28	19
+266	US-11613681-B2	   PDF	Use of compounds having n 2-oxo-1,3-dioxolane-4-carboxamide units in two-component adhesives	Schumacher; Karl-Heinz et al.	2023-03-28	14
+267	US-11612897-B2	   PDF	Alkylated triphenyl phosphorothionates as selective metal sulphide collectors	Villanueva Berindoague; Adrian Mauricio et al.	2023-03-28	17
+268	US-11613074-B2	   PDF	Sinter powder containing a mineral flame retardant for producing moulded bodies	Gabriel; Claus et al.	2023-03-28	15
+269	US-11613644-B2	   PDF	Aqueous acrylic polymer latexes and their use as binders	Zorn; Matthias et al.	2023-03-28	19
+270	US-11613549-B2	   PDF	Bromination of pyridine derivatives	Rack; Michael et al.	2023-03-28	13
+271	US-11613524-B2	   PDF	Monomers comprising at least one 4-(2-oxyethylidene)-1,3-dioxolan-2-one unit and use thereof	Schaub; Thomas et al.	2023-03-28	29
+272	US-11613686-B2	   PDF	Associative copolymers with hydrophobic quaternized (meth)acrylamide and (meth)acrylic acid derivatives	Langlotz; Bjoern et al.	2023-03-28	16
+273	US-20230087981-A1	   PDF	TPU FOR INMOLD ASSEMBLY OF AN OUTER SHOE SOLE ON ETPU	SCHAEFER; Frank et al.	2023-03-23	16
+274	US-11609000-B2	   PDF	Air-conditioning method and device	Noerenberg; Ralf et al.	2023-03-21	15
+275	US-11608408-B2	   PDF	Polyurethane comprising graphene nano structure	Lubitz; Michael Jae et al.	2023-03-21	28
+276	US-11608468-B2	   PDF	Process of fracturing subterranean formations	El-Toufaili; Faissal-Ali et al.	2023-03-21	42
+277	US-11608393-B2	   PDF	Polymerization process for liquid copolymers of ethylene and hydroxyalkyl(meth)acrylate	Garcia Castro; Ivette et al.	2023-03-21	10
+278	US-20230073963-A1	   PDF	Synthesis of N-vinyl compounds by reacting cylic NH-compounds with acetylene in presence of homogenous catalyst	SCHAUB; Thomas et al.	2023-03-09	12
+279	US-11597695-B2	   PDF	Method of preparing hydroxyalkylcarboxylic acid esters	Kolk; Miriam et al.	2023-03-07	8
+280	US-11597799-B2	   PDF	Polyester	Schick; Michael Bernhard et al.	2023-03-07	7
+281	US-11591424-B2	   PDF	Method for producing water-absorbing polymer particles by suspension polymerization	Bauer; Stephan et al.	2023-02-28	13
+282	US-11591335-B2	   PDF	Bicyclic pesticidal compounds	Mclaughlin; Martin John et al.	2023-02-28	43
+283	US-11591432-B2	   PDF	Aqueous polymer dispersion and preparation method thereof	Zeng; Zhong et al.	2023-02-28	13
+284	US-11589591-B2	   PDF	Herbicidal mixtures comprising L-glufosinate and their use in corn cultures	Winter; Christian Harald et al.	2023-02-28	36
+285	US-11593897-B2	   PDF	System and method for optimization of crop protection	Stenzel; Klaus et al.	2023-02-28	26
+286	US-11591543-B2	   PDF	Aroma chemical compositions containing 3,5-diethyl-2-propyl-tetrahydropyran and/or unsaturated derivatives thereof	Marion; Nicolas et al.	2023-02-28	29
+287	US-11591312-B2	   PDF	Halogenation of pyridine derivatives	Mueller; Bernd et al.	2023-02-28	15
+288	US-11591545-B2	   PDF	Method of producing biodiesel	Klingelhoefer; Paul et al.	2023-02-28	10
+289	US-11591293-B2	   PDF	Manufacturing method for an aromatic isocyanate compound	Maywald; Volker et al.	2023-02-28	6
+290	US-11585004-B2	   PDF	Composition for cobalt or cobalt alloy electroplating	Arnold; Marco et al.	2023-02-21	12
+291	US-11584689-B2	   PDF	Two-component system for formation of cohesive bonds or for chemical anchoring	Schmidt; Marco et al.	2023-02-21	10
+292	US-11584874-B2	   PDF	Increased saturation of ice melting compositions and methods of use	Lyon; Matthew Gerard et al.	2023-02-21	11
+293	US-11579098-B2	   PDF	Method and apparatus for detecting deposits in a pipe system of an apparatus	Waters; Gerrit et al.	2023-02-14	27
+294	US-11578149-B2	   PDF	Ammonia-based, imide-containing resin cuts of styrene-maleic resins	Klots; Timothy D. et al.	2023-02-14	14
+295	US-11578167-B2	   PDF	Sulphur-containing polyester polyols, their production and use	Ruebenacker; Martin et al.	2023-02-14	13
+296	US-11578012-B2	   PDF	Use of N-functionalized alkoxy pyrazole compounds as nitrification inhibitors	Nesvadba; Peter et al.	2023-02-14	49
+297	US-11578083-B2	   PDF	Pyrimidinium compounds and their mixtures for combating animal pests	Dickhaut; Joachim et al.	2023-02-14	51
+298	US-11577486-B2	   PDF	Floorings prepared from composites comprising expanded thermoplastic elastomer particles	Prissok; Frank et al.	2023-02-14	11
+299	US-11578219-B2	   PDF	Spherical particles for preparing colored coatings	Foley; Nicholas A. et al.	2023-02-14	14
+300	US-11570992-B2	   PDF	Bicyclic compounds	Narine; Arun et al.	2023-02-07	48
+301	US-11572330-B2	   PDF	Method for oxidation of cycloalkanes	Chouzier; Sandra et al.	2023-02-07	10
+302	US-11572323-B2	   PDF	Catalyzed process for the dimerization of alkenes	De Baerdemaeker; Trees Maria et al.	2023-02-07	16
+303	US-20230036985-A1	   PDF	USE OF CARBON BLACK FOR SOIL CONDITIONING	Flick; Dieter et al.	2023-02-02	8
+304	US-11565442-B2	   PDF	Device and method for impregnating fiber structures	Meyer; Andre et al.	2023-01-31	12
+305	US-11566196-B2	   PDF	Polymers as additives for fuels	Peretolchin; Maxim et al.	2023-01-31	21
+306	US-11566425-B2	   PDF	Wall assembly	Espada; Luis A. et al.	2023-01-31	16
+307	US-20230023694-A1	   PDF	METHOD FOR FUSING PARTICLE FOAMS BY MEANS OF POROUS SLEEVES	WONISCH; Andreas et al.	2023-01-26	9
+308	US-20230025840-A1	   PDF	A FLEXIBLE FOAMING PROCESS FOR PRODUCING THERMALLY INSULATED ARTICLES	WAGNER; Hendrik et al.	2023-01-26	14
+309	US-11559973-B2	   PDF	Polymer film containing an amorphous and a partially crystalline polyamide	Sprafke; Johannes Klaus et al.	2023-01-24	16
+310	US-11560456-B2	   PDF	Single-shaft extruder and use of a single-shaft extruder, and method for altering morphology of a superabsorbent polymer, specifically an SAP polymer gel, using a single-shaft extruder	Haag; Monica et al.	2023-01-24	24
+311	US-11560577-B2	   PDF	Methods for making L-glufosinate	Green; Brian Michael et al.	2023-01-24	24
+312	US-11560537-B2	   PDF	Container comprising a detergent composition containing salts of MGDA and GLDA	Reinoso Garcia; Marta et al.	2023-01-24	14
+313	US-11560450-B2	   PDF	Aliphatic-aromatic polyester having elevated whiteness index	Scheuermann; Klaus et al.	2023-01-24	10
+314	US-11560446-B2	   PDF	Polyurethane foam article and method of forming same	Ogonowski; Joseph et al.	2023-01-24	10
+315	US-11555117-B2	   PDF	Polyamide formulations comprising semi-crystalline copolyamide and flat glass fibers	Kim; Tae-Kyun	2023-01-17	12
+316	US-11554964-B2	   PDF	Process for preparing a zeolitic material having a framework type FER	Parvulescu; Andrei-Nicolae et al.	2023-01-17	26
+317	US-20230010059-A1	   PDF	Process for performing a pyrolysis of hydrocarbons in an indirectly heated rotary drum reactor	SCHEIFF; Frederik et al.	2023-01-12	11
+318	US-11548965-B2	   PDF	Polymers containing S-vinylthio alkanols	Fleischhaker; Friederike et al.	2023-01-10	6
+319	US-11547981-B2	   PDF	Method for producing transition alumina catalyst monoliths	Schwab; Matthias Georg et al.	2023-01-10	13
+320	US-20230002582-A1	   PDF	ENHANCEMENT OF LONG-TERM PROPERTIES OF CLOSED-CELL RIGID POLYURETHANE FOAMS	Lehenmeier; Maximilian et al.	2023-01-05	12
+321	US-20230002421-A1	   PDF	Process for preparing oligo ethylene glycol methyl ether borate	WERTH; Kathrin Luise Mariethres et al.	2023-01-05	8
+322	US-11541625-B2	   PDF	Wall assembly	Fox; Paul J. et al.	2023-01-03	18
+323	US-11542170-B2	   PDF	Process for the flash calcination of a zeolitic material	Kalo; Benedikt et al.	2023-01-03	16
+324	US-11540513-B2	   PDF	Stabilization of particles coated with non-amphoteric, quaternizable and water-soluble polymers using a dispersing component	Seelmann-Eggebert; Hans-Peter et al.	2023-01-03	16
+325	US-11542519-B2	   PDF	Anther-specific promoter and uses thereof	Denolf; Peter et al.	2023-01-03	16
+326	US-11542386-B2	   PDF	Light stabilizer mixture	Mueller; Daniel et al.	2023-01-03	19
+327	US-11542361-B2	   PDF	Thermoplastic polyurethane	Schaefer; Frank et al.	2023-01-03	14
+328	US-11542356-B2	   PDF	Method for producing polyisocyanates of (cyclo)aliphatic diisocyanates which are flocculation-stable in solvents	Schaefer; Harald et al.	2023-01-03	14
+329	US-11542230-B2	   PDF	Catalysts for the synthesis of alkanesulfonic acids	Ott; Timo et al.	2023-01-03	5
+330	US-11542280-B2	   PDF	Substituted pyrimidinium compounds and derivatives for combating animal pests	Dickhaut; Joachim et al.	2023-01-03	45
+331	US-11542200-B2	   PDF	Composition for flowable fire-resistant materials	Faerberboeck; Adolf et al.	2023-01-03	11
+332	US-11542221-B2	   PDF	?, ?-disubstituted carboxylic acid esters for use as aroma chemicals	Danz; Manuel et al.	2023-01-03	31
+333	US-11542487-B2	   PDF	Beta-amylase enzymes	Urbina; Hugo et al.	2023-01-03	30
+334	US-11542217-B2	   PDF	Dodeca-4,8,11-trien-1-ol and its use as aroma chemical	Bru Roig; Miriam et al.	2023-01-03	14
+335	US-20220415297-A1	   PDF	SOUND INSULATION DEVICE	NOERENBERG; Ralf et al.	2022-12-29	15
+336	US-20220409776-A1	   PDF	A MEDICAL TUBING COMPRISING THERMOPLASTIC POLYURETHANE	Bokel; Felicia et al.	2022-12-29	11
+337	US-11535946-B2	   PDF	Composition for tin or tin alloy electroplating comprising leveling agent	Fluegel; Alexander et al.	2022-12-27	19
+338	US-11535697-B2	   PDF	Thermoplastic polyurethane	Jaehnigen; Julia Christa et al.	2022-12-27	28
+339	US-11535719-B2	   PDF	Method for the production of superabsorbers	Stephan; Oskar et al.	2022-12-27	7
+340	US-20220402871-A1	   PDF	PROCESS FOR PRODUCING SUBSTITUTED AMINO ALCOHOLS	SCHAUB; Thomas et al.	2022-12-22	19
+341	US-20220403295-A1	   PDF	CLEANING COMPOSITIONS AND THEIR USE	HUEFFER; Stephan	2022-12-22	9
+342	US-11529618-B2	   PDF	Catalyst composite comprising an alkaline earth metal containing CHA zeolite and use thereof in a process for the conversion of oxygenates to olefins	McGuire; Robert et al.	2022-12-20	24
+343	US-11530292-B2	   PDF	Polyurethane comprising graphene nano structure	Luesing; Janine et al.	2022-12-20	28
+344	US-11529616-B2	   PDF	Catalyst system and process for preparing dimethyl ether	Schuster; Sabine et al.	2022-12-20	7
+345	US-11529607-B2	   PDF	Reactor for carrying out a reaction between two non-miscible fluids of different densities	Bey; Oliver et al.	2022-12-20	11
+346	US-11530427-B2	   PDF	Uses of surfactants in starch processing	Sato; Yukiko et al.	2022-12-20	83
+347	US-11530325-B2	   PDF	Electromagnetic radiation mitigation in coatings with spherical particles	Foley; Nicholas A. et al.	2022-12-20	16
+348	US-20220397334-A1	   PDF	Foam separator for polyurethane foams	WEICKERT; Mathias	2022-12-15	11
+349	US-20220387954-A1	   PDF	Method for operating a descending moving bed reactor with flowable granular material	Kolios; Grigorios et al.	2022-12-08	27
+350	US-20220388206-A1	   PDF	Comfort eTPU	PRISSOK; Frank et al.	2022-12-08	18
+351	US-11518965-B2	   PDF	Powder and granule, process for making such powder and granule, and use thereof	Hartmann; Markus et al.	2022-12-06	10
+352	US-11518907-B2	   PDF	Water-emulsifiable isocyanates with improved properties	Lucas; Frederic et al.	2022-12-06	13
+353	US-11518749-B2	   PDF	Method for the continuous separation by distillation of mixtures that contain morpholine (MO), monoaminodiglycol (ADG), ammonia, water and methoxyethanol (MOE)	Bussmann; Oliver et al.	2022-12-06	17
+354	US-11517871-B2	   PDF	Porous metal oxide microspheres	Darji; Rupa Hiremath et al.	2022-12-06	17
+355	US-11518752-B2	   PDF	Process for the purification of organic sulfur compounds	Thiel; Indre et al.	2022-12-06	6
+356	US-11515525-B2	   PDF	Process for coating an oxide material	Kleine Jaeger; Frank et al.	2022-11-29	6
+357	US-11512046-B2	   PDF	Heterogeneous catalysts for the direct carbonylation of nitro aromatic compounds to isocyanates	Titlbach; Sven et al.	2022-11-29	17
+358	US-11512054-B2	   PDF	Pesticidal compounds	Chaudhuri; Rupsha et al.	2022-11-29	82
+359	US-11512268-B2	   PDF	Storage-stable enzyme preparations, their production and use	Hueffer; Stephan et al.	2022-11-29	23
+360	US-11512904-B2	   PDF	Heat exchanger	Kreuz; James P. et al.	2022-11-29	12
+361	US-11512040-B2	   PDF	Process for preparation of amino alcohols	Ernst; Martin et al.	2022-11-29	20
+362	US-11505690-B2	   PDF	Water-swellable polymer particles	Gubbels; Erik	2022-11-22	17
+363	US-11505662-B2	   PDF	Elastic membrane	Prissok; Frank et al.	2022-11-22	12
+364	US-11505636-B2	   PDF	Binder compositions and methods of preparing and using the same	Avramidis; Kostas S. et al.	2022-11-22	16
+365	US-11505865-B2	   PDF	Process for the generation of metal- or semimetal-containing films	Schweinfurth; David Dominique et al.	2022-11-22	13
+366	US-11505562-B2	   PDF	Process for the generation of metal-containing films	Mayr; Lukas et al.	2022-11-22	23
+367	US-11505511-B2	   PDF	Process for preparing improved 3,4-dimethyl-1H-pyrazole phosphate formulations	Schneider; Karl-Heinrich et al.	2022-11-22	8
+368	US-20220363827-A1	   PDF	Flame retardant polyamide	Henze; Oliver Steffen et al.	2022-11-17	15
+369	US-20220364622-A1	   PDF	DUAL RATE JOUNCE BUMPER AND A VEHICLE COMPRISING THE SAME	ZYLINSKI; Tomasz et al.	2022-11-17	17
+370	US-11499162-B2	   PDF	Plants having increased tolerance to herbicides	Schachtschabel; Doreen et al.	2022-11-15	109
+371	US-11499028-B2	   PDF	Expandable, expanding-agent-containing granules based on high-temperature thermoplastics	Queiroz Da Fonseca; Isa Alexandra et al.	2022-11-15	8
+372	US-11498997-B2	   PDF	Process for removal of volatile compounds from tackifiers	Yu; Miran et al.	2022-11-15	8
+373	US-11498885-B2	   PDF	Use of pyrazole propargyl ethers as nitrification inhibitors	Nesvadba; Peter et al.	2022-11-15	46
+374	US-11502296-B2	   PDF	Process for making a mixed metal oxide	Kalo; Benedikt et al.	2022-11-15	5
+375	US-11498986-B2	   PDF	High-pressure polymerization process for liquid ethylene copolymers	Wendker; Martin et al.	2022-11-15	14
+376	US-11499021-B2	   PDF	Fiber molding	Flory; Mirko et al.	2022-11-15	15
+377	US-20220354213-A1	   PDF	ULTRA-LIGHT SKIING BOOTS	HENZE; Oliver Steffen et al.	2022-11-10	8
+378	US-11492501-B2	   PDF	Dispersant composition	Pirrung; Frank et al.	2022-11-08	19
+379	US-11491090-B2	   PDF	Spherical microparticles with polyester walls	Burakowska-Meise; Ewelina et al.	2022-11-08	17
+380	US-11496223-B2	   PDF	Transmitter for transmitting data and for emitting electromagnetic radiation in the visible spectral range and data transmission system	Valouch; Sebastian et al.	2022-11-08	80
+381	US-11492462-B2	   PDF	Flame-retardant composition, a method for preparing the same and an article therefrom	Henze; Oliver Steffen et al.	2022-11-08	11
+382	US-11492324-B2	   PDF	Method for the production of ethyleneamines	Luyken; Hermann	2022-11-08	17
+383	US-11492489-B2	   PDF	High heat resistance polyamide molding compound	Fillot; Louise-Anne	2022-11-08	12
+384	US-11490617-B2	   PDF	Methods to enhance soil water infiltration and to reduce soil water repellency using a surfactant composition	Mainwaring; David Edward et al.	2022-11-08	12
+385	US-11491463-B2	   PDF	Superabsorber mixtures	Bauer; Stephan et al.	2022-11-08	17
+386	US-20220348951-A1	   PDF	HERBICIDE TOLERANT PLANTS	Mankin; Scots L et al.	2022-11-03	186
+387	US-20220352721-A1	   PDF	ELECTRICALLY HEATED, HYBRID HIGH-TEMPERATURE METHOD	SCHEIFF; Frederik et al.	2022-11-03	24
+388	US-20220349078-A1	   PDF	PROCESS AND INTEGRATED PLANT FOR THE TREATMENT OF THE CARBON OXIDES FORMED IN THE PRODUCTION OF ALUMINUM	SCHEIFF; Frederik et al.	2022-11-03	10
+389	US-20220349119-A1	   PDF	WATER VAPOR-PERMEABLE COMPOSITE MATERIAL	PRISSOK; Frank et al.	2022-11-03	12
+390	US-11486049-B2	   PDF	Composition for metal electroplating comprising leveling agent	Roeger-Goepfert; Cornelia et al.	2022-11-01	21
+391	US-11485703-B2	   PDF	Process for manufacturing a complexing agent	Schmidt; Thomas et al.	2022-11-01	9
+392	US-20220341658-A1	   PDF	SYSTEM FOR EVALUATING THE INSULATION PROPERTIES OF A THERMALLY INSULATED TRANSPORT UNIT	Wollny; Andreas et al.	2022-10-27	8
+393	US-11479635-B2	   PDF	Oxidic silicon particle dispersion in polyol	Thielbeer; Frank et al.	2022-10-25	7
+394	US-11477985-B2	   PDF	Herbicidal mixtures comprising L-glufosinate or its salt and at least one photosynthesis inhibitor	Winter; Christian Harald et al.	2022-10-25	18
+395	US-11479619-B2	   PDF	Aqueous polymer dispersions	Kainz; Quirin Maximilian et al.	2022-10-25	16
+396	US-11479688-B2	   PDF	Polymer with branched structure	Maier; Matthias et al.	2022-10-25	25
+397	US-11478999-B2	   PDF	Pultrusion process of forming multi-layered structures of dissimilar materials using a multi-die pultrusion device	Kumar; Anil et al.	2022-10-25	13
+398	US-11479522-B2	   PDF	Method for the purification of alkanes	Ott; Timo	2022-10-25	8
+399	US-11479786-B2	   PDF	Plants having increased tolerance to herbicides	Aponte; Raphael et al.	2022-10-25	179
+400	US-20220332017-A1	   PDF	UNDERWATER GRANULATION SYSTEM, AND METHOD FOR GRANULATING A POLYMER MELT	Freese; Michael et al.	2022-10-20	17
+401	US-11472152-B2	   PDF	Method for producing insulated pipes	Grieser-Schmitz; Christof et al.	2022-10-18	10
+402	US-11471706-B2	   PDF	Polymer for treating hair	Tonhauser; Christoph et al.	2022-10-18	6
+403	US-11471849-B2	   PDF	Porous metal oxide microspheres with varying pore sizes	Darji; Rupa Hiremath et al.	2022-10-18	20
+404	US-20220325032-A1	   PDF	Composition comprising a thermoplastic polyisocyanate polyaddition product and a flame retardant	HENZE; Oliver Steffen et al.	2022-10-13	6
+405	US-11458665-B2	   PDF	Single-shaft extruder and use of a single-shaft extruder, and method for altering morphology of a superabsorbent polymer gel using a single-shaft extruder	Haag; Monica et al.	2022-10-04	20
+406	US-11458433-B2	   PDF	Absorbent and process for selectively removing hydrogen sulfide	Ernst; Martin et al.	2022-10-04	15
+407	US-11459665-B2	   PDF	Composition for tin or tin alloy electroplating comprising suppressing agent	Fluegel; Alexander et al.	2022-10-04	17
+408	US-11462732-B2	   PDF	Process for making a coated electrode active material	Kalo; Benedikt et al.	2022-10-04	7
+409	US-11459281-B2	   PDF	Method for producing acetylene and syngas	Vicari; Maximilian et al.	2022-10-04	9
+410	US-20220306960-A1	   PDF	New Additive Packages for Gasoline Fuels	Hansch; Markus et al.	2022-09-29	20
+411	US-11452995-B2	   PDF	Catalyst and process for preparing dimethyl ether	Schuster; Sabine et al.	2022-09-27	9
+412	US-11456448-B2	   PDF	Process for making an at least partially coated electrode active material	Jimenez; Jose et al.	2022-09-27	9
+413	US-11453645-B2	   PDF	Process for producing substituted amino alcohols	Schaub; Thomas et al.	2022-09-27	19
+414	US-11453836-B2	   PDF	Lubricant comprising a liquid ethylene copolymer	Wendker; Martin et al.	2022-09-27	15
+415	US-11447791-B2	   PDF	Methods and means for modulating flowering time in monocot plants	Geuten; Koen et al.	2022-09-20	46
+416	US-11447596-B2	   PDF	Polyurethane with improved tear strength	Richter; Sebastian et al.	2022-09-20	9
+417	US-11447713-B2	   PDF	Hyperbranched polyesters and their use as wax inhibitor, as pour point depressant, as lubricant or in lubricating oils	Mueller-Cristadoro; Anna Maria et al.	2022-09-20	17
+418	US-11447439-B2	   PDF	Method for inhibiting unwanted radical polymerisation of acrylic acid present in a liquid phase P	Janssen; Nicole et al.	2022-09-20	10
+419	US-20220289697-A1	   PDF	Reduction of the odor of monothiocarbonate compounds by addition of oxidants	Thiel; Indre et al.	2022-09-15	5
+420	US-20220289928-A1	   PDF	Method for manufacturing a plurality of bodies made of a porous material	WEINRICH; Dirk et al.	2022-09-15	22
+421	US-20220289893-A1	   PDF	A PREPARATION COMPRISING THERMOPLASTIC POLYISOCYANATE POLYADDITION PRODUCT, A PROCESS FOR PREPARING THE SAME AND THE USE THEREOF	DRAWE; Patrick et al.	2022-09-15	12
+422	US-11441147-B2	   PDF	RNAi for the control of phytopathogenic fungi and oomycetes by inhibiting the expression of CYP51 genes	Kogel; Karl-Heinz	2022-09-13	55
+423	US-11440231-B2	   PDF	Process for the preparation of a reinforced polyamide by extrusion	Puch; Florian et al.	2022-09-13	15
+424	US-11441036-B2	   PDF	2-phenylphenoxy-substituted perylene bisimide compounds and their use	Koenemann; Martin et al.	2022-09-13	65
+425	US-11439995-B2	   PDF	Three-dimensionally structured porous catalyst monolith of stacked catalyst fibers	Groeneveld; Esther et al.	2022-09-13	9
+426	US-11439996-B2	   PDF	Method for producing catalyst monoliths	Groeneveld; Esther et al.	2022-09-13	8
+427	US-11444326-B2	   PDF	Heterocyclic sulfonyl fluoride additives for electrolyte composition for lithium batteries	Han; Zhenji et al.	2022-09-13	13
+428	US-11440861-B2	   PDF	Process for preparation of 5-bromo-1,3-dichloro-2-fluoro-benzene	Koerber; Karsten et al.	2022-09-13	15
+429	US-11440876-B2	   PDF	Process to produce a mono vinyl thioether	Lohwasser; Ruth et al.	2022-09-13	4
+430	US-11434587-B2	   PDF	Filaments for use as a support material in fused deposition modeling	Kopping; Jordan Thomas et al.	2022-09-06	17
+431	US-11434220-B2	   PDF	Use of physiological cooling active ingredients, and compositions comprising such active ingredients	Join; Beno?t et al.	2022-09-06	86
+432	US-11434379-B2	   PDF	Composition, its preparation process, and the use of the composition as a waterproofing coat	Meng; Lei et al.	2022-09-06	20
+433	US-11425909-B2	   PDF	Use of tetrazolinones for combating resistant phytopathogenic fungi on fruits	Montag; Jurith et al.	2022-08-30	10
+434	US-11427728-B2	   PDF	Method for producing aqueous dispersions	Kehrloesser; Daniel et al.	2022-08-30	22
+435	US-11425910-B2	   PDF	Substituted oxadiazoles for combating phytopathogenic fungi	Grammenos; Wassilios et al.	2022-08-30	36
+436	US-11427672-B2	   PDF	Storage-stable polyurethane casting compound for embedding hollow fibres in the production of filter elements	Bolze; Patrick et al.	2022-08-30	9
+437	US-11425902-B2	   PDF	Aqueous agricultural composition having improved spray drift performance	Anderson; Timothy H et al.	2022-08-30	15
+438	US-11427667-B2	   PDF	Vinyl acrylic copolymers and methods of making and use thereof	Avramidis; Kostas et al.	2022-08-30	12
+439	US-20220267553-A1	   PDF	Novel particle foams	POESELT; Elmar et al.	2022-08-25	23
+440	US-20220267293-A1	   PDF	PROCESS FOR THE PURIFICATION OF ORGANIC SULFUR COMPOUNDS	Thiel; Indre et al.	2022-08-25	6
+441	US-11419811-B2	   PDF	Means and methods for preventing and/or treating caries	Kaesler; Bruno et al.	2022-08-23	27
+442	US-11419804-B2	   PDF	Sunscreen formulations optimized for the formation of vitamin D	Herzog; Bernd et al.	2022-08-23	27
+443	US-11419337-B2	   PDF	Method for controlling PPO resistant weeds	Armel; Gregory et al.	2022-08-23	37
+444	US-11420874-B2	   PDF	Concentrating graphite particles by agglomeration with hydrophobic magnetic particles	Rohde; Wolfgang et al.	2022-08-23	8
+445	US-11421191-B1	   PDF	Acidic cleaner	Soontravanich; Sukhwan et al.	2022-08-23	14
+446	US-20220259382-A1	   PDF	New block copolymers	POESELT; Elmar et al.	2022-08-18	17
+447	US-11414449-B2	   PDF	Hydrated and anhydrous polymorphs of 2′-O- fucosyllactose and their production methods	Cipolletti; Giovanni et al.	2022-08-16	47
+448	US-11414543-B2	   PDF	Hard transparent thermoplastic polyurethane	Tomovic; Zeljko et al.	2022-08-16	11
+449	US-11414438-B2	   PDF	Silylethynyl hetaryl compounds as nitrification inhibitors	Cunningham; Allan F. et al.	2022-08-16	37
+450	US-11413610-B2	   PDF	Use of a transition metal catalyst comprising a tetradentate ligand for hydrogenation of esters and/or formation of esters, a process for hydrogenation of esters, a process for formation of esters and a transition metal complex comprising said tetradentate ligand	Schaub; Thomas et al.	2022-08-16	19
+451	US-11414531-B2	   PDF	Nucleating agents, methods for their production, and associated polymer compositions	Jayaratne; Vidura Nalin et al.	2022-08-16	23
+452	US-20220255188-A1	   PDF	LITHIUM METAL SULFIDE AND LITHIUM METAL SULFIDE ARGYRODITE IONICALLY CONDUCTIVE COMPOUNDS AND RELATED USES	Schneider; Holger et al.	2022-08-11	49
+453	US-11407700-B2	   PDF	Process for preparing 2,3-unsaturated alcohols	Zuend; Stephan et al.	2022-08-09	21
+454	US-11401399-B2	   PDF	Polymer compositions of improved scratch resistance, improved mechanical stability and improved haze	Kristiansen; Per Magnus et al.	2022-08-02	14
+455	US-11401363-B2	   PDF	Preparation of polymeric resins and carbon materials	Geramita; Katharine et al.	2022-08-02	67
+456	US-11400326-B2	   PDF	Ejector nozzle and use of the ejector nozzle	Zahn; Volker Michael et al.	2022-08-02	11
+457	US-11401382-B2	   PDF	Thermoplastic polyamide particles	Schoemer; Martina et al.	2022-08-02	23
+458	US-11400437-B2	   PDF	Catalyst for the oxidation of ethylene to ethylene oxide	Karpov; Andrey et al.	2022-08-02	19
+459	US-11401412-B2	   PDF	Polyester for profile extrusion and/or pipe extrusion	Kniesel; Simon et al.	2022-08-02	13
+460	US-11404723-B2	   PDF	Silyl ester phosphinates as electrolyte additives	Hoecker; Johannes David et al.	2022-08-02	15
+461	US-11401413-B2	   PDF	Injection-molded article containing surface-modified silicates	Lehenmeier; Maximilian et al.	2022-08-02	9
+462	US-11399543-B2	   PDF	Substituted 1,2,3,5-tetrahydroimidazo[1,2-a]pyrimidiniumolates for combating animal pests	Dickhaut; Joachim et al.	2022-08-02	54
+463	US-11401365-B2	   PDF	Thermoplastic polyoxazolidones from diisocyanates and diglycidyl ether of 2-phenyl- 1,3-propanediol derivaitives	Gorman; Irene et al.	2022-08-02	7
+464	US-11401373-B2	   PDF	Continuous method for producing an aliphatic polyester	Lehenmeier; Maximilian et al.	2022-08-02	9
+465	US-11401417-B2	   PDF	Polyamide composition comprising a specific co-polyamide comprising caprolactam monomer, a semi-crystalline polyamide and a reinforcing filler with enhanced gloss performance	Lim; Mok-Keun et al.	2022-08-02	9
+466	US-11401227-B2	   PDF	Process to produce a mono vinyl ether	Bienewald; Frank et al.	2022-08-02	5
+467	US-20220235479-A1	   PDF	METHOD AND SYSTEM FOR USING THE CARBON OXIDE ARISING IN THE PRODUCTION OF ALUMINIUM	Scheiff; Frederik et al.	2022-07-28	9
+468	US-11396487-B2	   PDF	Process of making pseudoionone and hydroxy pseudoionone in aqueous mixtures comprising citral and acetone, comprising adding first and second amounts of hydroxide	Nieuwoudt; Josias Jakobus et al.	2022-07-26	19
+469	US-11396573-B2	   PDF	Hydrophobic block—random block copolymer emulsion polymer stabilizers	Campbell; John David et al.	2022-07-26	18
+470	US-20220228280-A1	   PDF	INTEGRATED PROCESS OF PYROLYSIS, ELECTRODE ANODE PRODUCTION AND ALUMINUM PRODUCTION AND JOINT PLANT	Scheiff; Frederik et al.	2022-07-21	8
+471	US-11389387-B2	   PDF	Protein hydrolysates	Haake; Hans-Martin et al.	2022-07-19	15
+472	US-11390713-B2	   PDF	Process for making an alkoxylated polyalkylenimine	Hueffer; Stephan et al.	2022-07-19	9
+473	US-11388901-B2	   PDF	Herbicidal azines	Vogt; Florian et al.	2022-07-19	72
+474	US-11394026-B2	   PDF	Process for making an electrode active material	Kern; Andreas Michael et al.	2022-07-19	8
+475	US-11389384-B2	   PDF	Method for producing a light-coloured disalt	Brunn; Claudia et al.	2022-07-19	5
+476	US-11390794-B2	   PDF	Robust alkyl ether sulfate mixture for enhanced oil recovery	Bittner; Christian et al.	2022-07-19	22
+477	US-11390578-B2	   PDF	Method for synthesizing amines	Ernst; Martin et al.	2022-07-19	17
+478	US-20220220401-A1	   PDF	Emulsifier package with quaternary ammonium surfactant for fuel emulsion	Harhausen; Marcel et al.	2022-07-14	10
+479	US-20220220254-A1	   PDF	Process for the synthesis of polycarbonates from cyclic monothiocarbonates	Rudolf; Peter et al.	2022-07-14	13
+480	US-11384033-B2	   PDF	Compositions with improved urease-inhibiting effect comprising (thio)phosphoric acid triamide and further compounds such as amines and colorants	Schmid; Markus et al.	2022-07-12	65
+481	US-11382854-B2	   PDF	Polymer	Hoessel; Peter et al.	2022-07-12	8
+482	US-11387108-B2	   PDF	Composition for metal electroplating comprising leveling agent	Kienle; Marcel Patrik et al.	2022-07-12	17
+483	US-11384037-B2	   PDF	Method for removing dienes from a material stream containing C3 to C5 hydrocarbons by selective hydrogenation	Iselborn; Stefan et al.	2022-07-12	7
+484	US-11384177-B2	   PDF	Process for producing aqueous polyacrylamide solutions	Zimmermann; Tobias Joachim et al.	2022-07-12	54
+485	US-11384207-B2	   PDF	Preparation of a cured polymer comprising urethane groups and silicon atoms	Thiel; Indre et al.	2022-07-12	13
+486	US-20220213266-A1	   PDF	Blends that consist of TPU and polyamide	Henze; Oliver Steffen et al.	2022-07-07	19
+487	US-11375713-B2	   PDF	Stable, concentrated herbicidal compositions	Long; David A.	2022-07-05	7
+488	US-11377517-B2	   PDF	Phosphorous containing flame retardants	Balbo Block; Marco et al.	2022-07-05	12
+489	US-11375712-B2	   PDF	Agrochemical suspension concentrate comprising an alkoxylated alcohol dissolved in the aqueous phase	Kolb; Klaus et al.	2022-07-05	8
+490	US-11377625-B2	   PDF	Cleaning compositions with polyalkanolamines	Delplancke; Patrick Firmin August et al.	2022-07-05	14
+491	US-11377574-B2	   PDF	Composite materials	Wengeler; Lukas et al.	2022-07-05	13
+492	US-11377748-B2	   PDF	Composition for cobalt electroplating comprising leveling agent	Engelhardt; Nadine et al.	2022-07-05	13
+493	US-11377624-B2	   PDF	Cleaning composition for post-etch or post ash residue removal from a semiconductor substrate and corresponding manufacturing process	Ke; Jhih Jheng et al.	2022-07-05	15
+494	US-11380880-B2	   PDF	Method for producing moulded parts consisting of a porous material impregnated with polysulfide	Bayer; Domnik et al.	2022-07-05	7
+495	US-11377566-B2	   PDF	Aqueous binder compositions	Mollat Du Jourdin; Xavier et al.	2022-07-05	18
+496	US-11377454-B2	   PDF	Aluminum precursor and process for the generation of metal-containing films	Winter; Charles Hartger et al.	2022-07-05	9
+497	US-11377552-B2	   PDF	Hard-phase-modified thermoplastic polyurethane	Roy; Nabarun et al.	2022-07-05	13
+498	US-20220204715-A1	   PDF	Polyol component and use thereof for the production of rigid polyurethane foams	Klassen; Johann et al.	2022-06-30	13
+499	US-11369919-B2	   PDF	Absorbent for selective removal of hydrogen sulfide from a fluid stream	Vorberg; Gerald et al.	2022-06-28	10
+500	US-11373288-B2	   PDF	Apparatus for plant management	Peters; Ole	2022-06-28	23

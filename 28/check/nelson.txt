@@ -1,0 +1,150 @@
+1   US-20240142042-A1	   PDF	EXHAUST INSULATION SYSTEM	GOULET; Robert Jacque	2024-05-02	23
+2	US-11964293-B2	   PDF	Rigid mount orbitor sprinkler	Sesser; George L. et al.	2024-04-23	29
+3	US-11946584-B2	   PDF	Composite insulation system	Goulet; Robert Jacque	2024-04-02	41
+4	US-11933408-B2	   PDF	Multi-function pressure regulation valve	Nelson; Craig B. et al.	2024-03-19	28
+5	US-11885450-B2	   PDF	Quick connect coupler	Nelson; Craig B. et al.	2024-01-30	15
+6	US-11867344-B2	   PDF	Composite insulation system	Goulet; Robert Jacque	2024-01-09	24
+7	US-11821569-B2	   PDF	Band clamp insulation system	Goulet; Robert Jacque	2023-11-21	14
+8	US-11806920-B2	   PDF	Heat curable composite textile	Goulet; Robert Jacque	2023-11-07	11
+9	US-11795421-B2	   PDF	Microalgae production process and equipment	Zeelie; Bernard et al.	2023-10-24	13
+10	US-11745207-B2	   PDF	Sprinkler with modular components and pop up deflector with lug(s) for rotational engagement	Crawford; Steven E. et al.	2023-09-05	28
+11	US-11698161-B2	   PDF	Breathable multi-component exhaust insulation system	Goulet; Robert Jacque	2023-07-11	14
+12	US-11692654-B2	   PDF	Corrugated band clamp	Goulet; Robert Jacque	2023-07-04	18
+13	US-11688024-B2	   PDF	Location-conscious social networking apparatuses, methods and systems	Miller; Luke et al.	2023-06-27	62
+14	US-20230142405-A1	   PDF	A CONTINUOUS FLOW SYNTHESIS METHOD FOR THE MANUFACTURE OF ISONIAZID	WATTS; Paul et al.	2023-05-11	12
+15	US-11576012-B2	   PDF	Wireless network	Griggs; Travis et al.	2023-02-07	21
+16	US-11534849-B2	   PDF	Light weight cordless stud welder	Schraff; Scott J. et al.	2022-12-27	13
+17	US-11511290-B2	   PDF	Flow control device with drain check	Greenwood; Riley D.	2022-11-29	19
+18	US-11505354-B1	   PDF	Packaging/inspection system for a nozzle pivot package	Bren; Theodore J. et al.	2022-11-22	8
+19	US-D969475-S	   PDF	Customizable sock	Nelson; Mitchell B.	2022-11-15	8
+20	US-D966123-S	   PDF	Pressure regulator	Greenwood; Riley D.	2022-10-11	12
+21	US-11408515-B2	   PDF	Pressure regulator having an oblique valve seat	Greenwood; Riley D. et al.	2022-08-09	16
+22	US-11408695-B2	   PDF	Pistol slide with separable breech block	Nelson; Jeremy Michael et al.	2022-08-09	17
+23	US-RE49130-E	   PDF	Ladder attachment platform	Swygert; Richard W. et al.	2022-07-12	13
+24	US-11376621-B2	   PDF	Sprinkler assembly having coiled weight	Scott; Sean M. et al.	2022-07-05	18
+25	US-20220159418-A1	   PDF	Wireless Network	Griggs; Travis et al.	2022-05-19	21
+26	US-20220144756-A1	   PDF	FLOW SYNTHESIS PROCESS FOR THE PRODUCTION OF OSELTAMIVIR	Sagandira; Cloudius Ray et al.	2022-05-12	38
+27	US-11325147-B2	   PDF	Sprinkler with modular components and pop-up deflector	Crawford; Steven E. et al.	2022-05-10	24
+28	US-11277714-B2	   PDF	Wireless network	Griggs; Travis et al.	2022-03-15	21
+29	US-11255651-B2	   PDF	Leveling device for hanging picture frames	Medina; Donald Arthur et al.	2022-02-22	12
+30	US-11171941-B2	   PDF	Mobile device enabled desktop tethered and tetherless authentication	Cicchitto; Nelson A.	2021-11-09	33
+31	US-11154882-B2	   PDF	Cage design with modified struts including oriented fins	Nelson; Craig B. et al.	2021-10-26	9
+32	US-11126208-B2	   PDF	Multi-function pressure regulation valve	Nelson; Craig et al.	2021-09-21	14
+33	US-11122034-B2	   PDF	Method and apparatus for an identity assurance score with ties to an ID-less and password-less authentication system	Cicchitto; Nelson A.	2021-09-14	27
+34	US-11090671-B2	   PDF	Automatic reversible arc sprinkler	Zimmerman; Mathew L. et al.	2021-08-17	12
+35	US-11085568-B2	   PDF	Center pivot irrigation gooseneck with varying cross-sectional diameters	Nelson; Craig B. et al.	2021-08-10	20
+36	US-11045823-B2	   PDF	Rotary nozzle sprinkler with orbital diffuser	Sesser; George L. et al.	2021-06-29	14
+37	US-11040358-B2	   PDF	Rigid mount orbitor sprinkler with spider refuge	Sesser; George L. et al.	2021-06-22	32
+38	US-D921442-S	   PDF	Container	Nelson, Jr.; John et al.	2021-06-08	7
+39	US-D921443-S	   PDF	Container	Nelson, Jr.; John et al.	2021-06-08	7
+40	US-11020756-B2	   PDF	Orbital sprinkler with speed control brake	Sesser; George L. et al.	2021-06-01	56
+41	US-11002394-B2	   PDF	Quick connect joint	Zimmerman; Mathew L. et al.	2021-05-11	13
+42	US-10995812-B2	   PDF	Canted coil spring shock absorber	Nelson; Carl	2021-05-04	24
+43	US-10969804-B2	   PDF	Pressure regulator having single strut seat with strut coaxial to plunger	Greenwood; Riley D. et al.	2021-04-06	19
+44	US-10909640-B1	   PDF	Location-conscious social networking apparatuses, methods and systems	Miller; Luke et al.	2021-02-02	60
+45	US-10906122-B2	   PDF	Portable drawn arc stud welder including a lithium ferrophosphate battery	Schraff; Scott J. et al.	2021-02-02	26
+46	US-10906052-B2	   PDF	Drain check in pressure regulator	Greenwood; Riley D.	2021-02-02	20
+47	US-10894296-B2	   PDF	Light weight cordless stud welder	Schraff; Scott J. et al.	2021-01-19	13
+48	US-10864534-B2	   PDF	Rigid mount orbitor sprinkler	Sesser; George L. et al.	2020-12-15	28
+49	US-10848485-B2	   PDF	Method and apparatus for a social network score system communicably connected to an ID-less and password-less authentication system	Cicchitto; Nelson A.	2020-11-24	28
+50	US-D902067-S 	   PDF	Bracelet	Smith; Steve N	2020-11-17	3
+51	US-10828688-B2	   PDF	Elastomer formed beaded joint	Schellin; Robert et al.	2020-11-10	22
+52	US-10815223-B2	   PDF	Process for producing Lamivudine and Emtricitabine	Mandala; Devender et al.	2020-10-27	14
+53	US-20200319158-A1	   PDF	Lateral flow immunoassay (LFIA) system for measuring reombinant bovine somatotrophin (rBST) in whole milk and other dairy products	Gorewit; Ronald	2020-10-08	13
+54	US-10796386-B1	   PDF	Location-conscious social networking apparatuses, methods and systems	Miller; Luke et al.	2020-10-06	59
+55	US-10716295-B2	   PDF	Nestable bee swarm box	Nelson; Jeff et al.	2020-07-21	25
+56	US-D889601-S	   PDF	Rigid mount orbitor	Sesser; George L. et al.	2020-07-07	9
+57	US-10697346-B2	   PDF	Flexible automotive exhaust tube system	Semrow; Isaac et al.	2020-06-30	12
+58	US-10689353-B2	   PDF	Method for the manufacture of Efavirenz	Watts; Paul et al.	2020-06-23	28
+59	US-10660806-B1	   PDF	Wheelchair safety systems and related methods	Nelson-Herron; Blanche Michelle et al.	2020-05-26	40
+60	US-10631476-B2	   PDF	Proximity programmed, globally synchronized irrigation controller and system	Bauman; Mark A. et al.	2020-04-28	18
+61	US-D882039-S	   PDF	Shielded cap assembly for drop tube rigid mount orbitor	Sesser; George L.	2020-04-21	9
+62	US-D882040-S	   PDF	Open architecture cap assembly for drop tube rigid mount orbitor	Sesser; George L.	2020-04-21	9
+63	US-D882041-S	   PDF	Solid cover cap assembly for up top rigid mount orbitor	Sesser; George L.	2020-04-21	9
+64	US-D882042-S	   PDF	Solid cover cap assembly for up top rigid mount orbitor	Sesser; George L.	2020-04-21	10
+65	US-D879258-S	   PDF	Quick connection coupler	Zimmerman; Mathew L. et al.	2020-03-24	10
+66	US-10591206-B2	   PDF	Method and system for device with eutectic plate	Smith; Kellen R. et al.	2020-03-17	21
+67	US-20200062722-A1	   PDF	Method For The Manufacture of Efavirenz	Watts; Paul et al.	2020-02-27	29
+68	US-10570160-B2	   PDF	Method for the selective synthesis of trialkoxysilanes	Chigondo; Fidelis et al.	2020-02-25	13
+69	US-10564014-B2	   PDF	Water consumption meter	Robinson; Joseph R. A.	2020-02-18	12
+70	US-10562056-B2	   PDF	Scrubber filter assembly for control valve on a water supply pipe in an irrigation system	Zimmerman; Mathew et al.	2020-02-18	11
+71	US-D875922-S	   PDF	Intra-nasal clip	Nelson; Daniel D. et al.	2020-02-18	4
+72	US-10538715-B2	   PDF	Upgrading coal fines using microalgae	Zeelie; Bernard	2020-01-21	8
+73	US-D870848-S	   PDF	Deflector plate	Sesser; George L.	2019-12-24	10
+74	US-D870849-S	   PDF	Deflector plate	Sesser; George L.	2019-12-24	10
+75	US-10508751-B2	   PDF	Pilot valve	Neal; Meade M.	2019-12-17	10
+76	US-20190364842-A1	   PDF	JOINT WITH AUTOMATIC LOCKING JOINT FOR RECONFIGURABLE DEVICE AND METHOD OF MANUFACTURE	Nelson; Shane et al.	2019-12-05	22
+77	US-10487899-B2	   PDF	Canted coil spring shock absorber	Nelson; Carl	2019-11-26	21
+78	US-10465121-B2	   PDF	Processing carbonaceous materials	Zeelie; Bernard	2019-11-05	8
+79	US-20190318644-A1	   PDF	END TO END EDUCATIONAL SYSTEM AND METHOD	Aleem; Saqib et al.	2019-10-17	27
+80	US-20190314850-A1	   PDF	Sprinkler Assembly Having Coiled Weight	Scott; Sean M. et al.	2019-10-17	17
+81	US-10442621-B2	   PDF	Warehouse system and transfer vehicle	Bestic; Adriane Michele et al.	2019-10-15	22
+82	US-10416689-B2	   PDF	Pressure regulator having single strut seat with strut coaxial to plunger	Greenwood; Riley D. et al.	2019-09-17	20
+83	US-10415560-B2	   PDF	Dual-head, pulseless peristaltic-type metering pump	Choi; Nelson Naksun et al.	2019-09-17	17
+84	US-10406591-B2	   PDF	Spherical decoupler conduit	Schellin; Robert et al.	2019-09-10	21
+85	US-10399108-B2	   PDF	Sprinkler with modular components and pop up deflector	Crawford; Steven E. et al.	2019-09-03	23
+86	US-10401877-B2	   PDF	Flow washer assembly	Scott; Sean	2019-09-03	8
+87	US-10350502-B2	   PDF	Multifunctional slide and ladder device	Nelson; Trena et al.	2019-07-16	22
+88	US-20190211004-A1	   PDF	PROCESS FOR PRODUCING LAMIVUDINE AND EMTRICITABINE	Mandala; Devender et al.	2019-07-11	16
+89	US-10346930-B1	   PDF	Location conscious social networking apparatuses, methods and systems	Miller; Luke et al.	2019-07-09	59
+90	US-10329991-B2	   PDF	Thin foil encapsulated assemblies	Lehrbaum; Daniel et al.	2019-06-25	11
+91	US-D852084-S	   PDF	Jewelry setting	Ho; Chi Kai Nelson	2019-06-25	7
+92	US-10288203-B2	   PDF	Latching connector with radial grooves	Nelson; Carl	2019-05-14	8
+93	US-10288278-B2	   PDF	Open sight glass system	Nelson; Neville Adolphus et al.	2019-05-14	9
+94	US-10279415-B2	   PDF	Two-stage switch-mode power supply for drawn-arc stud welding	Hsu; Christopher et al.	2019-05-07	9
+95	US-D847690-S	   PDF	Jewelry setting	Ho; Chi Kai Nelson	2019-05-07	8
+96	US-D847691-S	   PDF	Jewelry setting	Ho; Chi Kai Nelson	2019-05-07	8
+97	US-10265796-B2	   PDF	Adaptively controlled short circuiting drawn-arc fastener welding	Hsu; Christopher et al.	2019-04-23	14
+98	US-10239066-B2	   PDF	Orbital sprinkler with speed control brake	Sesser; George L. et al.	2019-03-26	47
+99	US-10194598-B2	   PDF	Proximity programmed, globally synchronized irrigation controller and system	Bauman; Mark A. et al.	2019-02-05	21
+100	US-10182952-B1	   PDF	Wheelchair systems and related methods	Nelson-Herron; Blanche Michelle et al.	2019-01-22	29
+101	US-20190020341-A1	   PDF	METHOD AND CIRCUIT STRUCTURE FOR SUPPRESSING SINGLE EVENT TRANSIENTS OR GLITCHES IN DIGITAL ELECTRONIC CIRCUITS	Smith; Farouk	2019-01-17	22
+102	US-20190017204-A1	   PDF	EMBROIDERY WORKPIECE HOLDING DEVICE	Nelson; Chelsea et al.	2019-01-17	13
+103	US-10177709-B2	   PDF	Hybrid solar collector and operating procedure	Fent; Giuseppe	2019-01-08	12
+104	US-D836512-S	   PDF	Gaseous diluter	Goplen; Kevin et al.	2018-12-25	16
+105	US-D836050-S	   PDF	Gaseous diluter	Goplen; Kevin et al.	2018-12-18	16
+106	US-10145113-B2	   PDF	Stud weldable rebar	Houston; Ian et al.	2018-12-04	8
+107	US-20180327431-A1	   PDF	METHOD FOR THE SELECTIVE SYNTHESIS OF TRIALKOXYSILANES	CHIGONDO; Fidelis et al.	2018-11-15	13
+108	US-D832966-S	   PDF	Slide and ladder assembly	Nelson; Trena et al.	2018-11-06	10
+109	US-10107342-B2	   PDF	Viscous rotational speed control device with fluid circuit	Perkins; Lee A.	2018-10-23	57
+110	US-10100866-B2	   PDF	Stand-off weld stud	Champney; Clark	2018-10-16	14
+111	US-20180264581-A1	   PDF	PORTABLE DRAWN ARC STUD WELDER INCLUDING A LITHIUM FERROPHOSPHATE BATTERY	Schraff; Scott J. et al.	2018-09-20	26
+112	US-10010922-B2	   PDF	Elastomer formed beaded joint	Schellin; Robert et al.	2018-07-03	23
+113	US-9995352-B2	   PDF	Viscous rotational speed control device	Perkins; Lee A. et al.	2018-06-12	49
+114	US-9974287-B2	   PDF	Snapping fish stringer	Nelson; Jason	2018-05-22	16
+115	US-9971361-B2	   PDF	Pressure regulator having single strut seat with strut coaxial to plunger	Greenwood; Riley D. et al.	2018-05-15	20
+116	US-9959787-B2	   PDF	Method for injecting a fluid into an artificial venous structure	Nelson; Dvora Y. et al.	2018-05-01	15
+117	US-20180064892-A1	   PDF	INTRA-NASAL CLIP DEVICE	NELSON; DANIEL D. et al.	2018-03-08	14
+118	US-20180025345-A1	   PDF	NON-FIXED FUEL PLATFORM THAT CAN ACCEPT AUTOMATIC PAYMENT FOR FUEL DISPENSED	KITTOE; KEITH KARL et al.	2018-01-25	22
+119	US-20170314545-A1	   PDF	DUAL-HEAD, PULSELESS PERISTALTIC-TYPE METERING PUMP	Choi; Nelson Naksun et al.	2017-11-02	17
+120	US-9795090-B2	   PDF	Pluggtrainer	Nilsson; Torsten et al.	2017-10-24	16
+121	US-20170265427-A1	   PDF	JOINT WITH AUTOMATIC LOCKING JOINT FOR RECONFIGURABLE DEVICE AND METHOD OF MANUFACTURE	Nelson; Shane et al.	2017-09-21	22
+122	US-20170265426-A1	   PDF	RECONFIGURABLE PET POTTY SYSTEM WITH AUTOMATIC LOCKING JOINT AND METHOD OF MANUFACTURE	Nelson; Shane et al.	2017-09-21	19
+123	US-9738259-B2	   PDF	Wiper with ice removal apparatus	Nelson; James Q.	2017-08-22	53
+124	US-9710483-B1	   PDF	Location-conscious social networking apparatuses, methods and systems	Miller; Luke et al.	2017-07-18	60
+125	US-9694409-B2	   PDF	Elastomer formed beaded joint	Schellin; Robert et al.	2017-07-04	23
+126	US-20170175938-A1	   PDF	LATCHING CONNECTOR WITH RADIAL GROOVES	Nelson; Carl	2017-06-22	7
+127	US-9657790-B2	   PDF	Viscous rotational speed control device	Sesser; George L. et al.	2017-05-23	54
+128	US-9655312-B1	   PDF	Agile irrigation controller	Griggs; Travis A. et al.	2017-05-23	16
+129	US-9630044-B2	   PDF	Multifunction exercise belt	Nelson; Carl William	2017-04-25	6
+130	US-9623969-B2	   PDF	Multicopter with detachable wing	Nelson; Brian Dale	2017-04-18	21
+131	US-9587687-B2	   PDF	Viscous rotational speed control device	Sesser; George L. et al.	2017-03-07	49
+132	US-20170063302-A1	   PDF	Hybrid Solar Collector and Operating Procedure	Fent; Giuseppe	2017-03-02	12
+133	US-9534619-B2	   PDF	Sprinkler with multi-functional, side-load nozzle with nozzle storage clip and related tool	Sesser; George L. et al.	2017-01-03	50
+134	US-20160289567-A1	   PDF	Processing Carbonaceous Materials	Zeelie; Bernard	2016-10-06	8
+135	US-D764334-S	   PDF	Pressure regulator	Greenwood; Riley D.	2016-08-23	8
+136	US-9403177-B2	   PDF	Sprinkler with multi-functional, side-load nozzle	Sesser; George L. et al.	2016-08-02	40
+137	US-9403176-B2	   PDF	Stream deflector	Townsend; Michael et al.	2016-08-02	19
+138	US-9387494-B2	   PDF	Sprinkler with multi-functional, side-load nozzle insert with ball-type valve	Sesser; George L. et al.	2016-07-12	27
+139	US-9367070-B2	   PDF	Pressure regulator having single strut seat with strut coaxial to plunger	Greenwood; Riley D. et al.	2016-06-14	19
+140	US-D758543-S	   PDF	Pressure regulator	Greenwood; Riley D.	2016-06-07	8
+141	US-D758544-S	   PDF	Pressure regulator	Greenwood; Riley D.	2016-06-07	8
+142	US-20160115410-A1	   PDF	Upgrading Coal Fines Using Microalgae	Zeelie; Bernard	2016-04-28	7
+143	US-9283577-B2	   PDF	Sprinkler with multi-functional, side-load nozzle	Sesser; George L. et al.	2016-03-15	34
+144	US-9272784-B2	   PDF	Vertical takeoff winged multicopter	Nelson; Brian Dale	2016-03-01	12
+145	US-9255139-B2	   PDF	Tissue inhibitor of metalloproteinases (TIMP) linked to glycosylphosphatidylinositol (GPI)-anchors for treatment of cancer and skin lesions	Huss; Ralf et al.	2016-02-09	45
+146	US-9232702-B1	   PDF	High-production, minimal-discharge aquaponic systems and methods	Nelson; Rebecca L. et al.	2016-01-12	8
+147	US-20160002553-A1	   PDF	Carbonaceous Fines Beneficiation Using Micro-Algae and Related Processes	Zeelie; Bernard et al.	2016-01-07	8
+148	US-9216427-B2	   PDF	Fluid distributing device and method	Grant; Stuart F.	2015-12-22	10
+149	US-9198675-B2	   PDF	Reciprocating surgical instrument	Nelson; Keith J. et al.	2015-12-01	101
+150	US-9194556-B1	   PDF	Method of producing LED lighting apparatus and apparatus produced thereby	Nelson; Theodore G. et al.	2015-11-24	10
